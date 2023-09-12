@@ -1,0 +1,8 @@
+create server directory
+    npm init -y //initialize
+    npm install express mysql cors nodemon bcrypt cookie-parser jsonwebtoken // install packages
+
+in main directory
+    npm init vite
+    create frontend directory
+    npm install bootstrap react-router-dom axios
